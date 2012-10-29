@@ -1,0 +1,11 @@
+D:\wamp\Application\IpAutoEditor\IpAutoEditor\bin\Debug\IpAutoEditor.exe
+D:\wamp\Application\IpAutoEditor\IpAutoEditor\bin\Debug\IpAutoEditor.pdb
+D:\wamp\Application\IpAutoEditor\IpAutoEditor\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\wamp\Application\IpAutoEditor\IpAutoEditor\obj\x86\Debug\IpAutoEditor.Form1.resources
+D:\wamp\Application\IpAutoEditor\IpAutoEditor\obj\x86\Debug\IpAutoEditor.Properties.Resources.resources
+D:\wamp\Application\IpAutoEditor\IpAutoEditor\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\wamp\Application\IpAutoEditor\IpAutoEditor\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\wamp\Application\IpAutoEditor\IpAutoEditor\obj\x86\Debug\IpAutoEditor.exe
+D:\wamp\Application\IpAutoEditor\IpAutoEditor\obj\x86\Debug\IpAutoEditor.pdb
+D:\wamp\Application\IpAutoEditor\IpAutoEditor\obj\x86\Debug\IpAutoEditor.test.resources
+D:\wamp\Application\IpAutoEditor\IpAutoEditor\obj\x86\Debug\IpAutoEditor.SetNetInfo.resources
